@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "598153145111",
+    "project_id": "legalfyfinal",
+    "storage_bucket": "legalfyfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598153145111:android:257d5a8711676de4116552",
+        "android_client_info": {
+          "package_name": "com.mycompany.legalfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXMm-MzsTOoQSSusTqIc6jqii-wvJWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598153145111-p536sd1654f63k9ucg94ee7hb3i473in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.paneladminlegalfy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598153145111:android:411d93efc19a391c116552",
+        "android_client_info": {
+          "package_name": "com.mycompany.legalfyabogados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598153145111-g8bhgg397mt8tr4k2745lsgk89vn0oi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.legalfyabogados",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXMm-MzsTOoQSSusTqIc6jqii-wvJWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598153145111-p536sd1654f63k9ucg94ee7hb3i473in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.paneladminlegalfy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598153145111:android:af91ab94285eb3bc116552",
+        "android_client_info": {
+          "package_name": "com.mycompany.paneladminlegalfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598153145111-4nblh0ek70k5f3kmvvb31rrdthvrhcio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.paneladminlegalfy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXMm-MzsTOoQSSusTqIc6jqii-wvJWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598153145111-7h7fqluhe2t7nge3laa8i6h6nb90ol0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598153145111-p536sd1654f63k9ucg94ee7hb3i473in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.paneladminlegalfy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
